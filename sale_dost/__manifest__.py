@@ -18,7 +18,7 @@
     'license': 'LGPL-3',
     'live_test_url': 'https://youtu.be/roZbXESyhhg',
     'author': 'Serpent Consulting Services Pvt. Ltd.',
-    'website': 'http://www.serpentcs.com',
+    'website': 'https://www.serpentcs.com',
 
     'depends': ['stock', 'sale_management'],
 
@@ -26,7 +26,7 @@
         'views/sale_dost_view.xml',
     ],
     'application': False,
-    'images': ['static/description/DOST V-17.png'],
+    'images': ['static/description/Banner_sale_dost.png'],
     "live_test_url": "https://www.youtube.com/watch?v=roZbXESyhhg",
     'price': '59',
     'currency': 'EUR',
